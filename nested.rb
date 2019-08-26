@@ -71,7 +71,7 @@ def adding_matz
  		    :yukihiro_matsumoto => {
  		      :know_for => "ruby",
  		      :languages => ["LISP", "C"]
- 		    }
+ 		    },
         :grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
